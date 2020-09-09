@@ -13,7 +13,7 @@ From: ubuntu:18.04
     Version v0.0.1
 
 %help
-    This is a demo container used to illustrate a def file.
+    This is a demo container used to illustrate a def file. Cow.
 
 %runscript
     fortune | cowsay | lolcat
