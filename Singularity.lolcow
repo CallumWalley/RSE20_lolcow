@@ -9,7 +9,7 @@ From: ubuntu:18.04
     export PATH=/usr/games:$PATH
 
 %labels
-    Author Pawsey Supercomputing Centre
+    Author Pawsey Supercomputing Centre.
     Version v0.0.1
 
 %help
